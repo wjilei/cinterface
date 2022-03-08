@@ -42,6 +42,9 @@ void *Stack_pop(Stack_T stk) {
     struct elem *t;
 
     assert(stk);
+    if (stk->count <= 0) {
+        return NULL;
+    }
 
     t = stk->head;
     stk->head = t->link;
@@ -56,7 +59,7 @@ void *Stack_pop(Stack_T stk) {
 
 void Stack_free(Stack_T *stk) {
     struct elem *t, *u;
-    assert(stk);
+    assert(stk && *stk);
     for(t = (*stk)->head; t; t = u) {
         u = t->link;
         FREE(t);
