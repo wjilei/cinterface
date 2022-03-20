@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wjl/workspace/cinterface/ch3/build/bin",
+  "command": "/usr/bin/cc  -I/home/wjl/workspace/cinterface/ch3/build  -o CMakeFiles/Test.dir/main.c.o -c /home/wjl/workspace/cinterface/ch3/src/main.c",
+  "file": "/home/wjl/workspace/cinterface/ch3/src/main.c"
+},
+{
+  "directory": "/home/wjl/workspace/cinterface/ch3/build/bin",
+  "command": "/usr/bin/cc  -I/home/wjl/workspace/cinterface/ch3/build  -o CMakeFiles/Test.dir/atom.c.o -c /home/wjl/workspace/cinterface/ch3/src/atom.c",
+  "file": "/home/wjl/workspace/cinterface/ch3/src/atom.c"
+}
+]

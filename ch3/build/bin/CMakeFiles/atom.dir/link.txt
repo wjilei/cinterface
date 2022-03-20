@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libatom.so -o libatom.so CMakeFiles/atom.dir/atom.c.o 

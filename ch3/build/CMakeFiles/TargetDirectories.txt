@@ -1,0 +1,14 @@
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/install/strip.dir
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/install/local.dir
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/install.dir
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/list_install_components.dir
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/rebuild_cache.dir
+/home/wjl/workspace/cinterface/ch3/build/CMakeFiles/edit_cache.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/install/strip.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/install/local.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/edit_cache.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/atom.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/install.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/list_install_components.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/rebuild_cache.dir
+/home/wjl/workspace/cinterface/ch3/build/bin/CMakeFiles/atom_static.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wjl/workspace/cinterface/ch3/src/atom.c
+string.h
+-
+limits.h
+-
+assert.h
+/home/wjl/workspace/cinterface/ch3/src/assert.h
+atom.h
+/home/wjl/workspace/cinterface/ch3/src/atom.h
+mem.h
+/home/wjl/workspace/cinterface/ch3/src/mem.h
+
+/home/wjl/workspace/cinterface/ch3/src/atom.h
+
+/home/wjl/workspace/cinterface/ch3/src/mem.h
+stdlib.h
+-
+string.h
+-
+
